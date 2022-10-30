@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: thulimy@163.com
 description: "Explore and Create."
 keyword: 
-url: "thulimy.github.io"             # your host, for absolute URL
+url: "limyblog.github.io"             # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
